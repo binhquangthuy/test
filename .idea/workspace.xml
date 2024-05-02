@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e146e0b-c811-43a8-8d85-9038f8d29235" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "contexts": [
+    {
+      "name": "docker-desktop"
+    }
+  ],
+  "isMigrated": true
+}]]></component>
+  <component name="KubernetesSettings">
+    <option name="contextName" value="docker-desktop" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2fVcQNN1bufmwIWxB3U61f6FCRA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.Application.executor": "Debug",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/managementShop/entity/src/main/java/org/example/entityManage/response",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\managementShop\entity\src\main\java\org\example\entityManage\response" />
+      <recent name="E:\managementShop\entity\src\main\java\org\example\entityManage" />
+      <recent name="E:\managementShop\entity\src\main\java\org\example\entityManage\request\order" />
+      <recent name="E:\managementShop\utility\src\main\java\org\example\utility" />
+      <recent name="E:\managementShop\utility\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.entityManage.request.orderDetail" />
+      <recent name="org.example.entityManage.mapper" />
+      <recent name="org.example.entityManage.response.order" />
+      <recent name="org.example.entityManage.dto.order" />
+      <recent name="org.example.entityManage.request.order" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="application (1) (org.example)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.application.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e146e0b-c811-43a8-8d85-9038f8d29235" name="Changes" comment="" />
+      <created>1713889668435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713889668435</updated>
+      <workItem from="1713889669493" duration="3042000" />
+      <workItem from="1713968974949" duration="11304000" />
+      <workItem from="1714040298245" duration="16897000" />
+      <workItem from="1714133612621" duration="4982000" />
+      <workItem from="1714179546826" duration="34669000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/main/java/org/example/application/service/logicService/impl/ProductServiceImpl.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/utility/src/main/java/org/example/utility/util/MessageResourceUtil.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/utility/src/main/java/org/example/utility/locale/TranslatorCustom.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/main/java/org/example/application/service/logicService/impl/ProductServiceImpl.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/main/java/org/example/application/service/logicService/impl/ProductServiceImpl.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/main/java/org/example/application/repository/impl/ProductCustomRepoImpl.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/main/java/org/example/application/repository/impl/ProductCustomRepoImpl.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/main/java/org/example/application/service/logicService/impl/ProductServiceImpl.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/main/java/org/example/application/repository/impl/ProductCustomRepoImpl.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/main/java/org/example/application/controller/ProductController.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/main/java/org/example/application/service/logicService/impl/OrderServiceImpl.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/main/java/org/example/application/service/logicService/impl/OrderServiceImpl.java</url>
+          <line>191</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/main/java/org/example/application/service/logicService/impl/OrderServiceImpl.java</url>
+          <line>152</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/main/java/org/example/application/service/logicService/impl/OrderServiceImpl.java</url>
+          <line>220</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/main/java/org/example/application/service/logicService/impl/OrderServiceImpl.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/main/java/org/example/application/service/logicService/impl/OrderServiceImpl.java</url>
+          <line>186</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/main/java/org/example/application/service/logicService/impl/OrderServiceImpl.java</url>
+          <line>214</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/main/java/org/example/application/service/logicService/impl/OrderServiceImpl.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.springframework.validation.BeanPropertyBindingResult" memberName="errors" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
